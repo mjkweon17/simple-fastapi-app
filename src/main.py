@@ -14,7 +14,7 @@ async def root():
                 "createdAt": "24.07.26"
             },
             {
-                "id": "1",
+                "id": "2",
                 "user_id": "2",
                 "user_name": "현지수",
                 "reviewContent": "파이썬 처음 하시는 분들께 추천! 저는 이걸로 스터디 햇어용 우하하",
